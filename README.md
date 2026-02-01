@@ -42,7 +42,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center" class="d-flex justify-content-center align-items-center">
-  <a href="https://github.com/eidoxy">
+  <a href="https://github.com/xdzall">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eidoxy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eidoxy&layout=compact&langs_count=8&theme=dark"/>
   </a>
