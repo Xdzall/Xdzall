@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Nuzee%20ヌジー&section=header&textBg=false&descAlign=50&descAlignY=78)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center" style="font-size:250px">Hey There👋 I'm Ghazali</h1>
-<p align="center">Passionate Fullstack Developer, Photograpy Enthusiast.</p>
-<p align="center">Curiously, <b>mostly games and photograpy.</b></p>
+<p align="center">Passionate Fullstack Developer, Photography Enthusiast.</p>
+<p align="center">Curiously, <b>mostly games and photography.</b></p>
 
 
 <!-- ### 🛠 &nbsp;Tech Stacks -->
